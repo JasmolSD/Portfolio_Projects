@@ -37,7 +37,7 @@ def extract():
         query= """SELECT s.TABLE_SCHEMA,
             t.name AS table_name FROM sys.tables t
             JOIN INFORMATION_SCHEMA.TABLES s ON t.name = s.TABLE_NAME
-            WHERE t.name IN ('Product', 'ProductSubcategory', 'ProductCategory', 'SalesTerritory')
+            WHERE t.name IN ('Table1', 'Table2', 'Table3', 'Table4')
             """
         src_tables = pd.read_sql_query(query, src_conn).to_dict()['table_name']
         src_schema = pd.read_sql_query(query, src_conn).to_dict()['TABLE_SCHEMA']
