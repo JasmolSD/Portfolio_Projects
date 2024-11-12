@@ -47,6 +47,7 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
   - **Modeling**: Applied ARIMA and Exponential Smoothing models to capture trends and seasonality.
   - **Evaluation**: Assessed model performance using metrics like RMSE and AIC.
 - **Outcome**: Developed a robust forecasting model that accurately predicts future CO₂ emissions trends, aiding in environmental policy planning.
+- **Note** I worked on this project with [`Diego Moss`](https://github.com/Mossd-2) and [`Jonathan Ho`](https://github.com/jonathanhorx)
 
 ---
 
