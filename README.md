@@ -7,7 +7,7 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
 ---
 
 ## 🗂️ Table of Contents
-1. [📈 Project Highlights](#project-highlights)
+1. [Project Highlights](#project-highlights)
     + [1. SQL & Python ETL with PostgreSQL](#1-sql--python-etl-with-postgresql)
     + [2. Movie Correlation Analysis](#2-movie-correlation-analysis)
     + [3. CO₂ Emissions Time Series Forecasting](#3-co2-emissions-time-series-forecasting)
