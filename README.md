@@ -58,7 +58,7 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 
 ## Technologies & Tools
 - **Languages**: Python, R, SQL
-- **Libraries**: pandas, numpy, matplotlib, seaborn, statsmodels, psycopg2, ggplot2, forecast
+- **Libraries**: pandas, numpy, matplotlib, seaborn, psycopg2
 - **Tools**: Jupyter Notebooks, RStudio, PostgreSQL, GitHub
 
 ---
