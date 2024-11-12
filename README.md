@@ -28,8 +28,6 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
   - **Loading**: Automated the data loading process into PostgreSQL, ensuring efficient data storage and retrieval.
 - **Outcome**: Streamlined the ETL process, reducing manual intervention and enhancing data accessibility for analytics.
 
----
-
 ### 2. Movie Correlation Analysis
 - **File**: [`Movie_Correlation_Project.ipynb`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/Movie_Correlation_Project.ipynb)
 - **Objective**: Analyze IMDb movie data to uncover correlations between various factors (like budget, revenue, runtime, and ratings).
@@ -38,8 +36,6 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
   - **Visualization**: Used `matplotlib` and `seaborn` to create correlation heatmaps and scatter plots for insights.
   - **Statistical Analysis**: Performed hypothesis testing to validate relationships between budget and box office success.
 - **Outcome**: Identified significant correlations between budget and revenue, providing actionable insights into factors influencing box office performance.
-
----
 
 ### 3. CO₂ Emissions Time Series Forecasting
 - **File**: [`CO2 Time Series Forecasting Report.Rmd`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/CO2%20Emissions%20Time%20Series%20Modelling/CO2%20Time%20Series%20Forecasting%20Report.Rmd)
