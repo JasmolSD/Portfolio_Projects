@@ -11,9 +11,9 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
     + [1. SQL & Python ETL with PostgreSQL](#1-sql--python-etl-with-postgresql)
     + [2. Movie Correlation Analysis](#2-movie-correlation-analysis)
     + [3. CO₂ Emissions Time Series Forecasting](#3-co2-emissions-time-series-forecasting)
-2. [🛠️ Technologies & Tools](#️technologies--tools)
-3. [⚙️ Getting Started](#️getting-started)
-4. [📬 Contact](#️contact)
+2. [Technologies & Tools](#️technologies--tools)
+3. [Getting Started](#️getting-started)
+4. [Contact](#️contact)
 
 
 ---
