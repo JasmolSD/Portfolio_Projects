@@ -10,7 +10,7 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
 1. [📈 Project Highlights](#project-highlights)
     + [1. SQL & Python ETL with PostgreSQL](#1-sql--python-etl-with-postgresql)
     + [2. Movie Correlation Analysis](#2-movie-correlation-analysis)
-    + [3. CO₂ Emissions Time Series Forecasting](#3-co₂-emissions-time-series-forecasting)
+    + [3. CO₂ Emissions Time Series Forecasting](#3-co2-emissions-time-series-forecasting)
 2. [🛠️ Technologies & Tools](#technologies--tools)
 3. [⚙️ Getting Started](#getting-started)
 4. [📬 Contact](#contact)
@@ -42,7 +42,7 @@ Welcome to my **Data Science Portfolio** repository, where I demonstrate my expe
 
 ---
 
-### 3. CO₂ Emissions Time Series Forecasting
+### 3. CO2 Emissions Time Series Forecasting
 - **File**: [`CO2 Time Series Forecasting Report.Rmd`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/CO2%20Emissions%20Time%20Series%20Modelling/CO2%20Time%20Series%20Forecasting%20Report.Rmd)
 - **File_PDF**: [`CO2-Time-Series-Forecasting-Report.pdf`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/CO2%20Emissions%20Time%20Series%20Modelling/CO2-Time-Series-Forecasting-Report.pdf)
 - **Objective**: Forecast CO₂ emissions using time series analysis and predictive modeling.
