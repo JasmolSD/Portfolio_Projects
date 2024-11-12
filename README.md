@@ -79,7 +79,7 @@ To explore the projects, please follow these steps:
 
 ## 📬 Contact
 
-I am always eager to connect with fellow data enthusiasts and professionals. Feel free to reach out!
+I'm always open to connecting with fellow data enthusiasts and professionals. Feel free to reach out!
 
 - **LinkedIn**: [Jasmol S. Dhesi](https://www.linkedin.com/in/jasmol-dhesi/)
 - **Email**: [jasdhesi12@gmail.com](jasdhesi12@gmail.com)
