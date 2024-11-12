@@ -2,7 +2,7 @@
 **Author**: Jasmol S. Dhesi  
 **Last Updated**: November 2024
 
-Welcome to my **Data Science Portfolio** repository, where I demonstrate my expertise in data analytics, machine learning, statistical modeling, and ETL processes using Python, R, and SQL. This repository showcases a variety of projects, each highlighting my problem-solving capabilities and proficiency in extracting insights from data.
+Welcome to my **Data Science Portfolio** repository, where I apply my knowledge of data analysis, machine learning, statistical modeling, and data engineering processes using Python, R, and SQL. This repository showcases a variety of projects from each sector to highlight my problem-solving capabilities and proficiency in extracting insights from data.
 
 ---
 
