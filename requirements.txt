@@ -1,0 +1,45 @@
+# General Libraries
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scikit-learn==1.2.2
+statsmodels==0.14.0
+
+# For SQL & PostgreSQL ETL Project
+psycopg2-binary==2.9.8
+
+# For TensorFlow and Neural Networks (if needed in other projects)
+tensorflow==2.13.0
+
+# For Time Series Analysis (CO2 Emissions Project)
+# R Libraries (to be installed in R environment)
+# Core Data Manipulation & Visualization Libraries
+# install.packages("tidyverse")
+# install.packages("tsibble")
+# install.packages("latex2exp")
+# install.packages("patchwork")
+# install.packages("ggplot2")
+# install.packages("dplyr")
+
+# Time Series Analysis & Forecasting Libraries
+# install.packages("forecast")
+# install.packages("feasts")
+# install.packages("fable")
+# install.packages("tseries")
+# install.packages("distributional")
+# install.packages("imputeTS")
+
+# Reporting & Presentation Libraries
+# install.packages("knitr")
+# install.packages("kableExtra")
+
+
+# Install all required packages at once
+# install.packages(c("tidyverse", "tsibble", "latex2exp", "patchwork", 
+#                   "forecast", "feasts", "fable", "tseries", 
+#                   "distributional", "imputeTS", "knitr", "kableExtra"))
+
+# Ensure all dependencies are installed
+# update.packages(ask = FALSE)
+
