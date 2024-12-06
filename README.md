@@ -74,7 +74,9 @@ The project uses the [Heart Failure Clinical Records Dataset](https://archive.ic
 
 ## Technologies & Tools
 - **Languages**: Python, R, SQL
-- **Libraries**: pandas, numpy, matplotlib, seaborn, psycopg2
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, statsmodels, sklearn.metrics
+- **Clustering Algorithms**: k-means, hierarchical clustering, agglomerative clustering
+- **Dimensionality Reduction**: SVD (Singular Value Decomposition)
 - **Tools**: Jupyter Notebooks, RStudio, PostgreSQL, GitHub
 
 ---
