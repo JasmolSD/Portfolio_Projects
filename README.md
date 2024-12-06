@@ -36,7 +36,7 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 ---
 
 ### 2. Heart Failure Survival Clustering
-- **File**: [`Heart_Failure_Clustering.ipynb`](#) *(Add the link to your notebook here)*
+- **File**: [`Heart_Failure_Clustering.ipynb`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/Clustering%20to%20Predict%20Patient%20Survival/clustering.ipynb)
 - **Objective**: Explore patterns in heart failure survival data using unsupervised learning techniques.
 - **Techniques**:
   - **Data Preparation**: Cleaned and preprocessed clinical data to ensure consistency and quality.
