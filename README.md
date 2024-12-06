@@ -10,8 +10,7 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 1. [Project Highlights](#project-highlights)
     + [1. CO₂ Emissions Time Series Forecasting](#1-co2-emissions-time-series-forecasting)
     + [2. Heart Failure Survival Clustering](#2-heart-failure-survival-clustering)
-    + [3. Movie Correlation Analysis](#3-movie-correlation-analysis)
-    + [4. SQL & Python ETL with PostgreSQL](#4-sql--python-etl-with-postgresql)
+    + [3. SQL & Python ETL with PostgreSQL](#3-sql--python-etl-with-postgresql)
 2. [Technologies & Tools](#technologies--tools)
 3. [Getting Started](#getting-started)
 4. [Contact](#contact)
@@ -50,18 +49,7 @@ The project uses the [Heart Failure Clinical Records Dataset](https://archive.ic
 
 ---
 
-### 3. Movie Correlation Analysis
-- **File**: [`Movie_Correlation_Project.ipynb`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/IMDb%20Movie%20Correlation/Movie_Correlation_Project.ipynb)
-- **Objective**: Analyze IMDb movie data to uncover correlations between various factors (like budget, revenue, runtime, and ratings).
-- **Techniques**: 
-  - **Data Analysis**: Utilized Python (`pandas`, `numpy`) to clean and preprocess the dataset.
-  - **Visualization**: Used `matplotlib` and `seaborn` to create correlation heatmaps and scatter plots for insights.
-  - **Statistical Analysis**: Performed hypothesis testing to validate relationships between budget and box office success.
-- **Outcome**: Identified significant correlations between budget and revenue, providing actionable insights into factors influencing box office performance.
-
----
-
-### 4. SQL & Python ETL with PostgreSQL
+### 3. SQL & Python ETL with PostgreSQL
 - **File**: [`SQL_Python_PostgresSQL_ETL.py`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/Other/SQL_Python_PostgresSQL_ETL.py)
 - **Objective**: Develop an automated ETL pipeline to extract, transform, and load data into a PostgreSQL database.
 - **Techniques**: 
