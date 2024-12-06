@@ -51,7 +51,7 @@ The project uses the [Heart Failure Clinical Records Dataset](https://archive.ic
 ---
 
 ### 3. Movie Correlation Analysis
-- **File**: [`Movie_Correlation_Project.ipynb`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/Movie_Correlation_Project.ipynb)
+- **File**: [`Movie_Correlation_Project.ipynb`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/IMDb%20Movie%20Correlation/Movie_Correlation_Project.ipynb)
 - **Objective**: Analyze IMDb movie data to uncover correlations between various factors (like budget, revenue, runtime, and ratings).
 - **Techniques**: 
   - **Data Analysis**: Utilized Python (`pandas`, `numpy`) to clean and preprocess the dataset.
@@ -62,7 +62,7 @@ The project uses the [Heart Failure Clinical Records Dataset](https://archive.ic
 ---
 
 ### 4. SQL & Python ETL with PostgreSQL
-- **File**: [`SQL_Python_PostgresSQL_ETL.py`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/SQL_Python_PostgresSQL_ETL.py)
+- **File**: [`SQL_Python_PostgresSQL_ETL.py`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/Other/SQL_Python_PostgresSQL_ETL.py)
 - **Objective**: Develop an automated ETL pipeline to extract, transform, and load data into a PostgreSQL database.
 - **Techniques**: 
   - **Extraction**: Utilized Python libraries (`psycopg2`, `pandas`) to fetch raw data.
