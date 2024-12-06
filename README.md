@@ -9,8 +9,9 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 ## 🗂️ Table of Contents
 1. [Project Highlights](#project-highlights)
     + [1. CO₂ Emissions Time Series Forecasting](#1-co2-emissions-time-series-forecasting)
-    + [2. SQL & Python ETL with PostgreSQL](#2-sql--python-etl-with-postgresql)
+    + [2. Heart Failure Survival Clustering](#2-heart-failure-survival-clustering)
     + [3. Movie Correlation Analysis](#3-movie-correlation-analysis)
+    + [4. SQL & Python ETL with PostgreSQL](#4-sql--python-etl-with-postgresql)
 2. [Technologies & Tools](#technologies--tools)
 3. [Getting Started](#getting-started)
 4. [Contact](#contact)
@@ -34,14 +35,18 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 
 ---
 
-### 2. SQL & Python ETL with PostgreSQL
-- **File**: [`SQL_Python_PostgresSQL_ETL.py`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/SQL_Python_PostgresSQL_ETL.py)
-- **Objective**: Develop an automated ETL pipeline to extract, transform, and load data into a PostgreSQL database.
-- **Techniques**: 
-  - **Extraction**: Utilized Python libraries (`psycopg2`, `pandas`) to fetch raw data.
-  - **Transformation**: Cleaned and optimized data using pandas for seamless integration.
-  - **Loading**: Automated the data loading process into PostgreSQL, ensuring efficient data storage and retrieval.
-- **Outcome**: Streamlined the ETL process, reducing manual intervention and enhancing data accessibility for analytics.
+### 2. Heart Failure Survival Clustering
+- **File**: [`Heart_Failure_Clustering.ipynb`](#) *(Add the link to your notebook here)*
+- **Objective**: Explore patterns in heart failure survival data using unsupervised learning techniques.
+- **Techniques**:
+  - **Data Preparation**: Cleaned and preprocessed clinical data to ensure consistency and quality.
+  - **Clustering**: Applied k-means, hierarchical, and agglomerative clustering to group patients by similar characteristics.
+  - **Dimensionality Reduction**: Used PCA to reduce feature dimensionality and improve clustering performance.
+  - **Evaluation**: Measured clustering quality using silhouette scores and visualized patterns in reduced dimensions.
+- **Outcome**: Identified distinct patient clusters, providing insights into survival rates and potential risk factors.
+
+## 📊 Dataset
+The project uses the [Heart Failure Clinical Records Dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records).
 
 ---
 
@@ -53,6 +58,17 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
   - **Visualization**: Used `matplotlib` and `seaborn` to create correlation heatmaps and scatter plots for insights.
   - **Statistical Analysis**: Performed hypothesis testing to validate relationships between budget and box office success.
 - **Outcome**: Identified significant correlations between budget and revenue, providing actionable insights into factors influencing box office performance.
+
+---
+
+### 4. SQL & Python ETL with PostgreSQL
+- **File**: [`SQL_Python_PostgresSQL_ETL.py`](https://github.com/JasmolSD/Portfolio_Projects/blob/main/SQL_Python_PostgresSQL_ETL.py)
+- **Objective**: Develop an automated ETL pipeline to extract, transform, and load data into a PostgreSQL database.
+- **Techniques**: 
+  - **Extraction**: Utilized Python libraries (`psycopg2`, `pandas`) to fetch raw data.
+  - **Transformation**: Cleaned and optimized data using pandas for seamless integration.
+  - **Loading**: Automated the data loading process into PostgreSQL, ensuring efficient data storage and retrieval.
+- **Outcome**: Streamlined the ETL process, reducing manual intervention and enhancing data accessibility for analytics.
 
 ---
 
