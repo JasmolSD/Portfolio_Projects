@@ -40,7 +40,7 @@ Welcome to my **Data Science Portfolio** repository, where I apply my knowledge 
 - **Techniques**:
   - **Data Preparation**: Cleaned and preprocessed clinical data to ensure consistency and quality.
   - **Clustering**: Applied k-means, hierarchical, and agglomerative clustering to group patients by similar characteristics.
-  - **Dimensionality Reduction**: Used PCA to reduce feature dimensionality and improve clustering performance.
+  - **Dimensionality Reduction**: Used PCA and SVD to reduce feature dimensionality and improve clustering performance.
   - **Evaluation**: Measured clustering quality using silhouette scores and visualized patterns in reduced dimensions.
 - **Outcome**: Identified distinct patient clusters, providing insights into survival rates and potential risk factors.
 
